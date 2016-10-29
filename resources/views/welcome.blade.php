@@ -38,10 +38,20 @@
 		</style>
 	</head>
 	<body>
+		{{-- <div class="container">
+			<div class="content">
+				<div class="title">Laravel 6</div>
+				<div class="quote">{{ Inspiring::quote() }}</div>
+			</div>
+		</div> --}}
+
 		<div class="container">
 			<div class="content">
-				<div class="title">Laravel 5</div>
-				<div class="quote">{{ Inspiring::quote() }}</div>
+				<div class="navbar">
+					<div class="navbar-inverse">
+						
+					</div>
+				</div>
 			</div>
 		</div>
 	</body>
